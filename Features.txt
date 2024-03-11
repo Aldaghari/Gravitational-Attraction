@@ -1,0 +1,11 @@
+1- Select a planet and show its propaties, you can change it propaties after selecting it. 1/2
+
+2- Have a ray that shows the track that the planet moved on. DONE!
+
+3- A moving background (stars background).
+
+4- Chilling music.
+
+5- Draw method inside Planet class. DONE
+
+6- Drag Planet. DONE!
